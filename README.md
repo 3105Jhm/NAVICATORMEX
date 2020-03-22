@@ -1,3 +1,5 @@
 # NAVICATORMEX
 # repo-Mexico
-# project:PROJECT_NAVICATORMEX
+# project:NAVICATORMEX
+# México
+# COVID-MEX19
