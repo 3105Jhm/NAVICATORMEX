@@ -8,7 +8,11 @@ using System.Configuration;
   
 namespace ConsoleApplication 
 {  
-    class Program  
+    class Program	//Declaring an object of type MyClass.
+MyClass mc = new MyClass();
+
+//Declaring another object of the same type, assigning it the value of the first object.
+MyClass mc2 = mc;
     {  
         static void Main(string[] args)  
         {  
