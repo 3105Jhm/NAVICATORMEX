@@ -3,7 +3,7 @@
 # project:NAVICATORMEX
 # México
 # COVID-MEX19
-1using System;  
+using System;  
 using System.Configuration;  
   
 namespace ConsoleApplication 
@@ -15,8 +15,8 @@ namespace ConsoleApplication
             ReadAllSettings();  
             ReadSetting("Setting1");  
             ReadSetting("NotValid");  
-            AddUpdateAppSettings("NewSetting", "May 7, 2014");  
-            AddUpdateAppSettings("Setting1", "May 8, 2014");  
+            AddUpdateAppSettings("NewSetting", "Mar 01, 2020");  
+            AddUpdateAppSettings("Setting1", "Mar 01, 2022");  
             ReadAllSettings();  
         }  
   
